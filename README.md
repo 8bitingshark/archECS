@@ -17,4 +17,6 @@ The framework also integrates a custom math library and a custom memory manageme
 The long-term objective is to evolve archECS into a cross-platform, component-driven framework for graphics and simulation researches.
 
 ## First Results
-![Demo][DemoResults.png]
+<p align="left">
+  <img src="DemoResults.png" alt="ResultsImage" width="800">
+</p>
